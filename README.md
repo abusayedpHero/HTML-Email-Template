@@ -1,1 +1,1 @@
-# HTML-Email-Template
+# emailtemplate
